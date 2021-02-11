@@ -17,5 +17,4 @@ public class MiApp {
 		// TODO Auto-generated method stub
          run();
 	}
-
 }
